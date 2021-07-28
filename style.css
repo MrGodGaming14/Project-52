@@ -1,0 +1,40 @@
+.header{
+    background-color:cornsilk;
+}
+h1{
+    color: dimgrey;
+    margin-left: 43%;
+}
+
+.bodyimg{
+    background-color:moccasin;
+    opacity:1;
+}
+
+.img{
+    display:flex;
+    justify-content: center;
+
+
+}
+.menu{
+   margin-left: 20px;
+}
+
+h4{
+    color:slategrey;
+    display:flex;
+    justify-content: center;
+}
+a:link{
+    color:green
+}
+
+a:visited{
+    color:lightgreen
+}
+
+
+.img:hover{
+    transform: scale(1.1)
+}
